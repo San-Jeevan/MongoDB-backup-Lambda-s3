@@ -1,6 +1,6 @@
 # MongoDB-backup-Lambda-s3
 
-quick port. we use this for our internal projects.
+quick port. we use this for our internal projects at [gressquel](https://www.gressquel.com)
 
 it uses mongodump (which is really fast) to take backup of your db. then it uploads to S3 bucket.
 
