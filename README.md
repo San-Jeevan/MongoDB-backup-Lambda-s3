@@ -9,5 +9,6 @@ It also has archieve functionality as in it creates 1 folder in s3 for every day
 # Usage
 
 in S3ProxyController.cs change the variable:
-
+```
 string mongoarguments = "-h mongodb.server.com:27017 -d local -u MyUsername -p pw1234 --authenticationDatabase admin";
+```
