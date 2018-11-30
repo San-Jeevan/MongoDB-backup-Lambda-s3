@@ -13,7 +13,7 @@ in S3ProxyController.cs change the variable:
 string mongoarguments = "-h mongodb.server.com:27017 -d local -u MyUsername -p pw1234 --authenticationDatabase admin";
 ```
 
-# Lambda settings
+# Lambda settings (optional)
 
 remember to turn up timeout time for big databases
 
